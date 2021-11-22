@@ -2,8 +2,14 @@ Esta es la historia de Ramiro Godoy
 
 Ramiro Godoy tiene 38 años y nació en Paraguay
 
-<<<<<<< HEAD
-Hoy hablaremos de su vida y obra maestra
-=======
+Anita de Platzi es una persona que contribuye en este punto del proyecto
+
+Experimento 1
+
+Experimento 2.
+
+Master 1
+
+Master 2
+
 Mañana nos enfocaremos en su vida laboral
->>>>>>> cabecera
